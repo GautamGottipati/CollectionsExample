@@ -1,0 +1,6 @@
+C:\Users\Gautam_Gottipati\source\repos\CollectionsExamples\CollectionsExamples\obj\Debug\CollectionsExamples.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\CollectionsExamples\CollectionsExamples\bin\Debug\CollectionsExamples.exe.config
+C:\Users\Gautam_Gottipati\source\repos\CollectionsExamples\CollectionsExamples\bin\Debug\CollectionsExamples.exe
+C:\Users\Gautam_Gottipati\source\repos\CollectionsExamples\CollectionsExamples\bin\Debug\CollectionsExamples.pdb
+C:\Users\Gautam_Gottipati\source\repos\CollectionsExamples\CollectionsExamples\obj\Debug\CollectionsExamples.exe
+C:\Users\Gautam_Gottipati\source\repos\CollectionsExamples\CollectionsExamples\obj\Debug\CollectionsExamples.pdb
